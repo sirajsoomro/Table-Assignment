@@ -1,0 +1,38 @@
+body{
+    font-family: monospace;
+}
+
+.hidden-cell {
+    visibility: hidden;
+}
+
+table {
+    margin: auto;
+}
+
+table tr td {
+    background-color: blueviolet;
+   height: 80px;
+   width: 80px; 
+    /* text-align: center; */
+    
+}
+span{
+    font-size: 15px;
+}
+
+h1{
+    font-size: 40px;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    text-transform: capitalize;
+}
+p{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    font-size: 15px;
+    text-transform: capitalize;
+
+}
